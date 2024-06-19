@@ -6,7 +6,7 @@ This project is a web-based code compiler that supports multiple programming lan
 
 - Compile and run code in multiple programming languages: Java, JavaScript, Python, TypeScript
 - Responsive UI built with React and Tailwind CSS
-- Secure backend API built with Python
+- Secure backend API built with Python 
 
 ## Installation
 

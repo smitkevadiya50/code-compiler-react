@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/code-compiler-backend/venv
+/code-compiler-backend/.venv
 
 # testing
 /coverage
